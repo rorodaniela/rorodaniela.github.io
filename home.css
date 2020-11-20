@@ -1,0 +1,100 @@
+/* body {
+    background-image: url(./img/home.jpg);
+    background-size: cover;
+} */
+
+.navbar{
+    background-color:  steelblue;
+    border: 1px solid grey;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    height: 6vh;
+    border: 0.1px solid gainsboro;
+    display: inline-block;
+}
+
+.navbar h1 {
+    float : left;
+    margin: 1vh 2vw;
+    color: white;
+}
+
+#tombollogout {
+    float: right;
+    margin : 2vh 2vw;
+    
+}
+
+.choosingfloor{
+    text-align: center;
+    margin-top: 8vh;
+}
+
+.card {
+    margin-top: 1vh;
+}
+
+
+.isicard {
+    border: 1px solid white;
+    color: black;
+    background-color: steelblue;
+    width: 40vh;
+    height: 20vh;
+    text-align: center;
+    margin-left: 10em;
+    float: left;
+}
+
+footer {
+    height: 6vh;
+    width: 100vw;
+    background-color: steelblue;
+    color: white;
+    text-align: center;
+    margin-top: 15vh;
+    bottom: 0;
+    position: fixed;
+    
+}
+
+#livingroom {
+    background-image: url(img/livingroom.jpg);
+    background-size: cover;
+}
+
+#diningroom {
+    background-image: url(img/diningroom.jpeg);
+    background-size: cover;
+    
+}
+#kitchen {
+    background-image: url(img/kitchen.jpeg);
+    background-size: cover;
+}
+#bedroom {
+    background-image: url(img/bedroom.jpeg);
+    background-size: cover;
+}
+#toilet {
+    background-image: url(img/toilet.jpg);
+    background-size: cover;
+}
+#balcony {
+    background-image: url(img/balcony.jpeg);
+    background-size: cover;
+}
+#garden {
+    background-image: url(img/garden.jpg);
+    background-size: cover;
+}
+#rooftop {
+    background-image: url(img/rooftop.jpeg);
+    background-size: cover;
+}
+#carport {
+    background-image: url(img/carport.jpg);
+    background-size: contain;
+}

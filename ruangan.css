@@ -1,0 +1,72 @@
+.navbar{
+    background-color:  steelblue;
+    border: 1px solid grey;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    height: 6vh;
+    border: 0.1px solid gainsboro;
+    display: inline-block;
+}
+
+.navbar h1 {
+    float : left;
+    margin: 1vh 2vw;
+    color: white;
+}
+
+
+.navbar input {
+    float : right;
+    margin : 2vh 1.5vw;
+}
+
+.konten {
+    margin-top:6vh;
+    
+}
+
+#kata1 {
+    text-align: center;
+}
+
+#kata2 {
+    text-align: center;
+}
+
+.tombol {
+    border: 1px solid none;
+    width: 50vh;
+    height: 21vh;
+    text-align: center;
+    margin-left: 10em;
+    float:left;
+    background-image: url(img/button.png);
+    background-size: 50vh 11vw;
+    font-size: 18.7px;
+   
+}
+
+
+.indikator {
+    background-color: red;
+    border-radius: 2.5%;
+    width: 50vh;
+    height: 21vh;
+    text-align: center;
+    margin-left: 10em;
+    float:left;
+}
+
+footer {
+    height: 6vh;
+    width: 100vw;
+    background-color: steelblue;
+    color: white;
+    text-align: center;
+    margin-top: 15vh;
+    bottom: 0;
+    position: fixed;
+    
+}

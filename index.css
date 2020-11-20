@@ -1,0 +1,63 @@
+body{
+    background-image: url("https://opinionstage-res.cloudinary.com/image/upload/c_lfill,dpr_1.0,f_auto,fl_lossy,q_auto:good,w_700/v1/polls/ujrwptlseasuhwkef4br");
+    background-size: cover;
+    
+}
+
+#font-login{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 9vh;
+    text-align: center;
+}
+
+#font-caption {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 2vh;
+    text-align: center;
+}
+
+.kotak1 {
+    padding:50px;
+    border: 1px solid white;
+    width: 50vh;
+    height: 70vh;
+    background-color:lightslategray;
+    z-index: 1;
+    margin: 10vh auto;
+    opacity: 0.9;
+    
+}
+
+form {
+    margin : 15px;
+    color : white
+}
+label {
+    font-weight: 2.5vh;
+    font-size: 2.5vh;
+}
+.kotak2 {
+    border: 1px solid steelblue;
+    width: 50vh;
+    height: 30vh;
+    background-color: steelblue;
+    padding: 0vh;
+    z-index: 10;
+
+    
+}
+
+#tombollogin {
+    width: 9vh;
+    height: 4vh;
+    font-size: 2.5vh;
+}
+.inputlogin {
+    display: block;
+    width: 45vh;
+    height: 3vh;
+}
